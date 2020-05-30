@@ -4,8 +4,8 @@
 
 # Site
 title: Echo.js
-subtitle: '关于编程与开发的播客节目，a.k.a. 两名前端专精二级干员的带主题吹水录音手记。'
-description: '关于编程与开发的播客节目，a.k.a. 两名前端专精二级干员的带主题吹水录音手记。'
+subtitle: '关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。'
+description: '关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。'
 author: Astrian & 白羊
 default_thumb: /images/echo.js.logo.jpg
 language: zh-cn
@@ -18,7 +18,7 @@ podcast:
     limit: 20
     url: https://podcast.astrianzheng.com
     explicit: false
-    description: 关于编程与开发的播客节目，a.k.a. 两名前端专精二级干员的带主题吹水录音手记。
+    description: 关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）二级干员的带主题吹水录音手记。
     language: zh-cn
     copyright: "Copyright (c) 2020 Astrian Zheng & 白羊. All rights reserved."
     owner: Astrian
