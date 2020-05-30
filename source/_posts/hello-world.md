@@ -1,38 +1,25 @@
 ---
-title: Hello World
+title: Troubleshooting for podcast hosting
+date: AUTO_GEN
+tags:
+  - TAG
+category: podcast # must be exactly `podcast`
+media: /audio/testingaudio.mp3 # placed under //URL/to/static/resources/path/to/media
+image: /images/echo.js.logo.jpg # same as above, but somehow itunes doesn't support episode image as it should do
+length: 3000000
+type: audio/mpeg
+duration: 00:03:07
+chapter:
+  [
+    ["00:00:00.000", "Title 1"],
+    ["OTHER STARTTIME", "Another title"]
+  ]
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+This is not podcast content, it just a Troubleshooting item for hosting podcast episodes.
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+On The Line (Instrumental) by SilentCrafter
+https://soundcloud.com/user-907904720
+Creative Commons — Attribution-ShareAlike 3.0 Unported — CC BY-SA 3.0
+Free Download / Stream: https://bit.ly/silentcrafter-on-the-line
+Music promoted by Audio Library https://youtu.be/XsH4ktwozrs

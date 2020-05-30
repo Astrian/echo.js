@@ -7,7 +7,7 @@ title: Echo.js
 subtitle: '关于编程与开发的播客节目，a.k.a. 两名前端专精二级干员的带主题吹水录音手记。'
 description: '关于编程与开发的播客节目，a.k.a. 两名前端专精二级干员的带主题吹水录音手记。'
 author: Astrian & 白羊
-default_thumb: https://podcast.astrianzheng.com/images/echo.js.logo.jpg
+default_thumb: /images/echo.js.logo.jpg
 language: zh-cn
 timezone: 'Asia/Shanghai'
 
@@ -16,7 +16,7 @@ podcast:
     type: rss2
     path: podcast.xml
     limit: 20
-    url: https://URL/to/static/resources
+    url: https://podcast.astrianzheng.com
     explicit: false
     description: 关于编程与开发的播客节目，a.k.a. 两名前端专精二级干员的带主题吹水录音手记。
     language: zh-cn
@@ -112,4 +112,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:Astrian/echo.js.git
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
