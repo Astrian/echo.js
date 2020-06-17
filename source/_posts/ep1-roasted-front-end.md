@@ -27,7 +27,10 @@ chapter:
     ["00:55:43.000", "马后槽：虽然会造成各种各样的问题，但意外很好用的…… 表格排版法"],
     ["00:56:43.000", "尾声"]
   ]
+neteasemusic: 2067653349
 ---
+
+
 
 > 白羊：我觉得我们录完没说到一起去啊。
 > Astrian：怎么讲？我觉得还成？
@@ -69,6 +72,7 @@ Christopher 在事后提醒我们，显像管显示器显示比例通常是 4:3 
 - 有关 WAP 的维基百科资料：[无线应用协议](https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E5%BA%94%E7%94%A8%E5%8D%8F%E8%AE%AE)
 - 节目中提到的几个前端视觉框架：[Bootstrap](https://getbootstrap.com/)、[iView](https://www.iviewui.com/) 和 [Element](https://element.eleme.cn)
 - 拯救前端开发者们的 flex 样式特性的 [官方文档](https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex)
+- 通过绘制的草图生成 HTML 的工具：[Sketch2Code](https://sketch2code.azurewebsites.net/)。我们当时看的好像不是微软做的，不过原理似乎差不太多。
 - 在没有 Flex 的时候，设前后左右都是 50% 的居中方式：[HTML+CSS，让 div 在屏幕中居中（水平居中 + 垂直居中）方法总结](https://blog.csdn.net/qq_32623363/article/details/77101971)
 
 ## ➤ 关于 Echo.js & 联系我们
