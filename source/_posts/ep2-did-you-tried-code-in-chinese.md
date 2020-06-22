@@ -69,6 +69,7 @@ Astrian 一直吐槽白羊在写代码的时候使用中文变量名，因此白
 - [wenyan-lang](https://wy-lang.org/)：基于文言文的编程语言
 - 输入中文概念返回对应英语变量名的实用网站：[Codeif](http://codeif.xinke.org.cn/)
 - [维基百科中有关信息熵的资料](https://zh.wikipedia.org/wiki/%E7%86%B5_(%E4%BF%A1%E6%81%AF%E8%AE%BA))
+- 中文变量输入辅助插件：[vscode_Chinese_Input_Assistant](https://github.com/program-in-chinese/vscode_Chinese_Input_Assistant)
 - 有关中国大陆地区 Apple Podcast 的一些情况介绍：[《播客制作入门指南》](https://sspai.com/post/56285)
 
 ## ➤ 关于 Echo.js & 联系我们

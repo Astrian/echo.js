@@ -1,6 +1,6 @@
 ---
 title: Ep 0. 「喂，喂，一二三，能听见吗？」
-date: AUTO_GEN
+date: 2020-05-31
 tags:
   - meta
   - WSL
