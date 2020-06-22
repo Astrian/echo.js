@@ -7,7 +7,7 @@ tags:
 category: podcast
 media: /audio/ep2_final.mp3
 image: /images/echo.js.logo.jpg
-length: 105049605
+length: 73576700
 type: audio/mpeg
 duration: 00:43:42
 chapter:
@@ -30,7 +30,7 @@ chapter:
     ["00:38:59", "VS Code 中的中文变量插件推荐"],
     ["00:40:22", "尾声 & 安可寒暄"]
   ]
-neteasemusic: 2067653349
+neteasemusic: 2067719587
 ---
 
 Astrian 一直吐槽白羊在写代码的时候使用中文变量名，因此白羊就在这一期中狠狠地向大家安利中文变量名。当然，我们也顺便聊了聊有关「中文变量」与「中文编程语言」的区别、在代码中使用中文（非拉丁字符）的一些问题，以及由此引发的许多额外话题。
