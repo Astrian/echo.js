@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Echo.js</title>
+    <link>https://podcast.astrianzheng.com/</link>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Astrian &amp; 白羊</itunes:author>
+    <itunes:summary>关于编程与开发的播客节目，a.k.a. 两名前端精英二级（迫真）干员的带主题吹水录音手记。</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Astrian</itunes:name>
+      <itunes:email>podcast@astrianzheng.cn</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://podcast.astrianzheng.com/images/echo.js.logo.jpg"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Technology"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <language>zh-cn</language>
+    
+    <item>
+      <title>Ep 4. 说是要聊「可视化编程」，结果聊了大半天的快捷指令和游戏编程</title>
+      <description><![CDATA[<p>各位 Echo.js 的听众朋友们，我们鸽了一年，终于回来了！ 🙇</p>
+<p>本期，我们从越来越火热的可视化编程概念开始，探讨这个只需要拖拖拽拽就能「写代码」的方式到底对我们生活有什么样的影响。省流小助手：对于普通人做做自动化、或是刚刚开始接触编程来说，帮助还是很大的；但它目前对程序员来说，还是不太友好。</p>
+<h2 id="➤-节目索引"><a href="#➤-节目索引" class="headerlink" title="➤ 节目索引"></a>➤ 节目索引</h2><ul>
+<li>00:00:00 开场</li>
+<li>00:00:53 道歉大会、近况介绍和一些公告</li>
+<li>00:04:26 什么是可视化编程？</li>
+<li>00:12:42 程序员编程时候并不会用它（大概吧）</li>
+<li>00:19:20 可视化编程与自动化</li>
+<li>00:27:03 用可视化编程做游戏</li>
+<li>00:35:53 吐槽一些公司内部使用的「可视化工具」有多难用</li>
+<li>00:44:06 说是总结，又不小心聊了一大堆东西</li>
+<li>00:50:54 尾声</li>
+</ul>
+<h2 id="➤-STAFF"><a href="#➤-STAFF" class="headerlink" title="➤ STAFF"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br>剪辑：Astrian</p>
+<h2 id="➤-相关链接"><a href="#➤-相关链接" class="headerlink" title="➤ 相关链接"></a>➤ 相关链接</h2><ul>
+<li><a href="https://codemao.cn/" target="_blank" rel="noopener">编程猫</a>：在节目中提到的有关青少年编程教育的创业公司之一</li>
+<li><a href="https://developers.google.com/blockly" target="_blank" rel="noopener">Google Blockly</a> 和 <a href="https://scratch.mit.edu/" target="_blank" rel="noopener">MIT Scratch</a></li>
+<li>H5 魔塔 <a href="https://h5mota.com/" target="_blank" rel="noopener">官网</a> 和 <a href="https://github.com/ckcz123/mota-js" target="_blank" rel="noopener">关卡编辑器</a></li>
+<li>通过组合函数块完成流逻辑编辑的 <a href="https://nodered.org/" target="_blank" rel="noopener">node-red</a></li>
+<li>Apple 设备上的 <a href="https://apps.apple.com/cn/app/%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4/id915249334" target="_blank" rel="noopener">快捷指令 app</a></li>
+<li>《附带导航！一做就上手 第一次的游戏程序设计》在美国任天堂的 <a href="https://www.nintendo.com/games/detail/game-builder-garage-switch/" target="_blank" rel="noopener">官方主页</a></li>
+<li>我台主播 Astrian 做的「第一次的游戏程序设计」<a href="https://www.bilibili.com/video/av716022893/" target="_blank" rel="noopener">攻略</a>（对，这玩意甚至可以有攻略）</li>
+</ul>
+<h2 id="➤-关于-Echo-js-amp-联系我们"><a href="#➤-关于-Echo-js-amp-联系我们" class="headerlink" title="➤ 关于 Echo.js &amp; 联系我们"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>
+<p>有话想说？你可以：</p>
+<ul>
+<li>发到官网评论区</li>
+<li>来小宇宙 app 订阅 Echo.js 并给节目发评论</li>
+<li>加入听众反馈 QQ 群：639587959（白羊说进群可以教学编程，包教包会）</li>
+<li>发邮件至 podcast(a)astrianzheng.com</li>
+</ul>
+<p>关注我们的：<a href="https://t.me/echojspodcast" target="_blank" rel="noopener">Telegram 频道</a>、<a href="https://twitter.com/echojspodcast" target="_blank" rel="noopener">Twitter</a></p>
+<h2 id="➤-COPYRIGHT-DISCLIMER"><a href="#➤-COPYRIGHT-DISCLIMER" class="headerlink" title="➤ COPYRIGHT DISCLIMER"></a>➤ COPYRIGHT DISCLIMER</h2><p><strong>开场/尾声音乐：</strong></p>
+<p>Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]<br>Music provided by NoCopyrightSounds.<br>Watch: <a href="https://youtu.be/HV7mLcsUp5U" target="_blank" rel="noopener">https://youtu.be/HV7mLcsUp5U</a><br>Free Download / Stream: <a href="http://ncs.io/GetUp" target="_blank" rel="noopener">http://ncs.io/GetUp</a></p>
+<p>Play the Flappy Duck game: <a href="http://ncs.io/GetUp" target="_blank" rel="noopener">http://ncs.io/GetUp</a></p>
+<p><strong>奏间音乐：</strong></p>
+<p>来自北京干燥文化传媒有限公司。</p>
+]]></description>
+      <itunes:author>Astrian &amp; 白羊</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://podcast.astrianzheng.com/images/echo.js.logo.jpg"/>
+      <enclosure url="https://podcast.astrianzheng.com/audio/ep4_final.mp3" length="99549690" type=""/>
+      <guid></guid>
+      <pubDate>Fri, 16 Jul 2021 06:51:44 GMT</pubDate>
+      <itunes:duration>00:51:47</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
+      <title>Ep 3. 教练我想做 IT，高考志愿怎么填？</title>
+      <description><![CDATA[<p>高考的同学们辛苦了！本期，我们为希望进修学习 IT 技术的同学们，讲讲相关专业的就业方向和必备技能。当然，本期节目涉及到的有关领域非常广泛，以至于所有想要转职的朋友们也能作为一些参考。</p>
+<p>注：节目中提到的所有信息皆截止于节目录制期间，同时可能会有误差。请各位同学们自己分辨信息准确性和真实性。</p>
+<h2 id="➤-节目索引"><a href="#➤-节目索引" class="headerlink" title="➤ 节目索引"></a>➤ 节目索引</h2><ul>
+<li>00:00:00 开场</li>
+<li>00:00:18 寒暄：今年不平常的高考，以及与高考有关的二三事</li>
+<li>00:04:53 奏间</li>
+<li>00:05:13 选专业：选「计科」八成没错，但你逃不了自学</li>
+<li>00:09:39 IT 领域有哪些可选的职业方向？</li>
+<li>00:16:20 详细展开这些职业的具体特点和要求</li>
+<li>00:25:10 职业方向选好了，接下来该学什么？</li>
+<li>00:25:10 职业方向选好了，接下来该学什么？</li>
+<li>00:49:25 自学也是一门学问</li>
+<li>00:52:08 返场寒暄：对今年的高考学子们一点微不足道的祝愿</li>
+<li>00:53:04 尾声</li>
+<li>00:54:05 花絮：主播 Astrian 找了一间钟点房录音，却不小心走错了房间……</li>
+</ul>
+<h2 id="➤-STAFF"><a href="#➤-STAFF" class="headerlink" title="➤ STAFF"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br>剪辑：Astrian</p>
+<h2 id="➤-相关链接"><a href="#➤-相关链接" class="headerlink" title="➤ 相关链接"></a>➤ 相关链接</h2><ul>
+<li><a href="https://www.tensorflow.org/?hl=zh-cn" target="_blank" rel="noopener">机器学习框架 TensorFlow 官网</a></li>
+<li><a href="https://www.electronjs.org" target="_blank" rel="noopener">跨平台桌面应用框架 Electron 官网</a></li>
+<li><a href="https://flutter.dev" target="_blank" rel="noopener">跨平台应用框架 Flutter 官网</a></li>
+<li><a href="https://www.dcloud.io" target="_blank" rel="noopener">国产跨平台应用开发工具 HBuilder 官网</a></li>
+<li><a href="https://www.egret.com" target="_blank" rel="noopener">白鹭游戏引擎</a></li>
+<li><a href="https://book.douban.com/subject/1013208/" target="_blank" rel="noopener">书籍《如何阅读一本书》的豆瓣页面</a></li>
+</ul>
+<h2 id="➤-关于-Echo-js-amp-联系我们"><a href="#➤-关于-Echo-js-amp-联系我们" class="headerlink" title="➤ 关于 Echo.js &amp; 联系我们"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>
+<p>有话想说？你可以：</p>
+<ul>
+<li>发到官网评论区</li>
+<li>来小宇宙 app 订阅 Echo.js 并给节目发评论</li>
+<li>加入听众反馈 QQ 群：639587959（白羊说进群可以教学编程，包教包会）</li>
+<li>发邮件至 podcast(a)astrianzheng.com</li>
+</ul>
+<p>关注我们的：<a href="https://t.me/echojspodcast" target="_blank" rel="noopener">Telegram 频道</a>、<a href="https://twitter.com/echojspodcast" target="_blank" rel="noopener">Twitter</a></p>
+<h2 id="➤-COPYRIGHT-DISCLIMER"><a href="#➤-COPYRIGHT-DISCLIMER" class="headerlink" title="➤ COPYRIGHT DISCLIMER"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场/尾声音乐：<a href="https://youtu.be/HV7mLcsUp5U" target="_blank" rel="noopener">TOKYO MACHINE &amp; Guy Arthur - GET UP (NCS Release)</a></p>
+<p>奏间音乐：<a href="https://freepd.com/misc.php" target="_blank" rel="noopener">River Meditation</a></p>
+]]></description>
+      <itunes:author>Astrian &amp; 白羊</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://podcast.astrianzheng.com/images/echo.js.logo.jpg"/>
+      <enclosure url="https://podcast.astrianzheng.com/audio/ep3_final.mp3" length="39627911" type=""/>
+      <guid></guid>
+      <pubDate>Fri, 16 Jul 2021 06:51:02 GMT</pubDate>
+      <itunes:duration>00:54:51</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
+      <title>Ep 2. 中文编程了解一下？</title>
+      <description><![CDATA[<p>Astrian 一直吐槽白羊在写代码的时候使用中文变量名，因此白羊就在这一期中狠狠地向大家安利中文变量名。当然，我们也顺便聊了聊有关「中文变量」与「中文编程语言」的区别、在代码中使用中文（非拉丁字符）的一些问题，以及由此引发的许多额外话题。</p>
+<h2 id="➤-节目索引"><a href="#➤-节目索引" class="headerlink" title="➤ 节目索引"></a>➤ 节目索引</h2><ul>
+<li>00:00:00 开场</li>
+<li>00:00:49 听众反馈 &amp; 公告 &amp; 寒喧</li>
+<li>00:03:39 进入正题，先了解「中文编程语言」与「中文变量」的区别</li>
+<li>00:04:22 白羊使用中文变量的最初动机，以及更深层次的缘由</li>
+<li>00:09:57 有哪些编程语言支持非拉丁字符变量名？</li>
+<li>00:14:20 闲谈两个（有趣的）中文编程语言</li>
+<li>00:17:31 说到底，编程语言还是要有实用性才会有拥趸</li>
+<li>00:21:28 语义化编程与语音助手，以及信息熵问题</li>
+<li>00:24:01 白羊的安利中文变量时间</li>
+<li>00:29:48 使用中文变量时，如何解决频繁切换输入法的问题？</li>
+<li>00:31:13 中文中的多音字、同音字，是中文变量编程的隐性障碍（拼音输入法限定）</li>
+<li>00:33:10 突然插入的《不懂英语，也能从零看懂英文文档》</li>
+<li>00:35:06 语言障碍、简繁与不同地区表述差异，都是中文编程的局限</li>
+<li>00:36:02 白羊有一个企图让全世界程序员学中文的计划</li>
+<li>00:36:28 中文的信息密度有助于「压缩」代码体积</li>
+<li>00:38:59 VS Code 中的中文变量插件推荐</li>
+<li>00:40:22 尾声 &amp; 安可寒暄</li>
+</ul>
+<h2 id="➤-STAFF"><a href="#➤-STAFF" class="headerlink" title="➤ STAFF"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br>剪辑：Astrian</p>
+<h2 id="➤-相关链接"><a href="#➤-相关链接" class="headerlink" title="➤ 相关链接"></a>➤ 相关链接</h2><ul>
+<li>Swift 语言参考书：<a href="https://books.apple.com/us/book/the-swift-programming-language-swift-5-2/id881256329" target="_blank" rel="noopener">The Swift Programming Language</a></li>
+<li>支持中文变量名的编程语言列表：<a href="https://github.com/program-in-chinese/team_website/blob/master/_posts/2017-10-23-%E5%9C%A8%E5%90%84%E7%A7%8D%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E4%B8%AD%E4%BD%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D.markdown" target="_blank" rel="noopener">在各种编程语言中使用中文命名</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E7%B7%A8%E7%A8%8B%E8%AA%9E%E8%A8%80" target="_blank" rel="noopener">维基百科</a> 以及 <a href="http://www.aspku.com/news/dongtai/52026.html" target="_blank" rel="noopener">源码库</a> 网站整理的使用中文进行编码的编程语言列表</li>
+<li><a href="https://github.com/zhanyong-wan/dongbei" target="_blank" rel="noopener">Dongbei</a>：基于 Python 的东北话编程语言</li>
+<li><a href="https://wy-lang.org/" target="_blank" rel="noopener">wenyan-lang</a>：基于文言文的编程语言</li>
+<li>输入中文概念返回对应英语变量名的实用网站：<a href="http://codeif.xinke.org.cn/" target="_blank" rel="noopener">Codeif</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E7%86%B5_(%E4%BF%A1%E6%81%AF%E8%AE%BA)" target="_blank" rel="noopener">维基百科中有关信息熵的资料</a></li>
+<li>中文变量输入辅助插件：<a href="https://github.com/program-in-chinese/vscode_Chinese_Input_Assistant" target="_blank" rel="noopener">vscode_Chinese_Input_Assistant</a></li>
+<li>有关中国大陆地区 Apple Podcast 的一些情况介绍：<a href="https://sspai.com/post/56285" target="_blank" rel="noopener">《播客制作入门指南》</a></li>
+</ul>
+<h2 id="➤-关于-Echo-js-amp-联系我们"><a href="#➤-关于-Echo-js-amp-联系我们" class="headerlink" title="➤ 关于 Echo.js &amp; 联系我们"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>
+<p>有话想说？可以来小宇宙 app 订阅 Echo.js 并给节目发评论，也可以发邮件至 podcast(a)astrianzheng.com。</p>
+<p>关注我们的：<a href="https://t.me/echojspodcast" target="_blank" rel="noopener">Telegram 频道</a>、<a href="https://twitter.com/echojspodcast" target="_blank" rel="noopener">Twitter</a></p>
+<h2 id="➤-COPYRIGHT-DISCLIMER"><a href="#➤-COPYRIGHT-DISCLIMER" class="headerlink" title="➤ COPYRIGHT DISCLIMER"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场/尾声音乐：Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]. Music provided by NoCopyrightSounds. Watch: <a href="https://youtu.be/HV7mLcsUp5U" target="_blank" rel="noopener">https://youtu.be/HV7mLcsUp5U</a>, Free Download / Stream: <a href="http://ncs.io/GetUp" target="_blank" rel="noopener">http://ncs.io/GetUp</a></p>
+]]></description>
+      <itunes:author>Astrian &amp; 白羊</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://podcast.astrianzheng.com/images/echo.js.logo.jpg"/>
+      <enclosure url="https://podcast.astrianzheng.com/audio/ep2_final.mp3" length="73576700" type=""/>
+      <guid></guid>
+      <pubDate>Fri, 16 Jul 2021 06:51:02 GMT</pubDate>
+      <itunes:duration>00:43:42</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
+      <title>Ep 1. 前端开发吐槽大会</title>
+      <description><![CDATA[<blockquote>
+<p>白羊：我觉得我们录完没说到一起去啊。<br>Astrian：怎么讲？我觉得还成？<br>白羊：我一直在说元素排版的问题，你一直在说分辨率的事儿。<br>Astrian：🙄🙄🙄</p>
+</blockquote>
+<p>久等了！因为这期的剪辑出了一点小问题，因此让大家等待的时间有点长，非常抱歉。</p>
+<p>Echo.js（真正的）第一期节目，两位点了不少前端技能点的主播，简单谈了谈有关前端开发（网页开发）的历史，吐槽有关 HTML 历史遗留问题带来的各种奇形怪状的问题，其中就包括多屏幕适配、长期以来的排版样式问题，以及目前前端开发技术栈被替代的可能性。</p>
+<h2 id="➤-节目索引"><a href="#➤-节目索引" class="headerlink" title="➤ 节目索引"></a>➤ 节目索引</h2><ul>
+<li>00:00:00 开场</li>
+<li>00:01:17 为什么要吐槽前端开发？</li>
+<li>00:04:00 响应式前端开发的由来</li>
+<li>00:10:17 HTML 的「流式布局」</li>
+<li>00:15:34 正常流程下做响应式网页的方法</li>
+<li>00:19:41 让人又爱又恨的栅格系统</li>
+<li>00:26:21 向 flex 开炮</li>
+<li>00:33:38 Flex 是一个比栅格系统更灵活的排版系统</li>
+<li>00:36:50 在网页做排版是一件「逆天而行」的事情</li>
+<li>00:38:13 另类适配方案</li>
+<li>00:55:43 马后槽：虽然会造成各种各样的问题，但意外很好用的…… 表格排版法</li>
+<li>00:56:43 尾声</li>
+</ul>
+<h2 id="➤-STAFF"><a href="#➤-STAFF" class="headerlink" title="➤ STAFF"></a>➤ STAFF</h2><p>主播：Astrian、白羊<br>剪辑：白羊<br>特别感谢：Christopher</p>
+<h2 id="➤-补遗"><a href="#➤-补遗" class="headerlink" title="➤ 补遗"></a>➤ 补遗</h2><p>Christopher 在事后提醒我们，显像管显示器显示比例通常是 4:3 的重要原因是，更接近正方形的显像管显示器更容易以低成本方式生产。</p>
+<h2 id="➤-相关链接"><a href="#➤-相关链接" class="headerlink" title="➤ 相关链接"></a>➤ 相关链接</h2><ul>
+<li>知乎上有关显像管显示器比例的讨论：<a href="https://www.zhihu.com/question/68339359/answer/526086056" target="_blank" rel="noopener">为什么早期屏幕是 4:3 比例？</a></li>
+<li>有关 WAP 的维基百科资料：<a href="https://zh.wikipedia.org/wiki/%E6%97%A0%E7%BA%BF%E5%BA%94%E7%94%A8%E5%8D%8F%E8%AE%AE" target="_blank" rel="noopener">无线应用协议</a></li>
+<li>节目中提到的几个前端视觉框架：<a href="https://getbootstrap.com/" target="_blank" rel="noopener">Bootstrap</a>、<a href="https://www.iviewui.com/" target="_blank" rel="noopener">iView</a> 和 <a href="https://element.eleme.cn" target="_blank" rel="noopener">Element</a></li>
+<li>拯救前端开发者们的 flex 样式特性的 <a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex" target="_blank" rel="noopener">官方文档</a></li>
+<li>通过绘制的草图生成 HTML 的工具：<a href="https://sketch2code.azurewebsites.net/" target="_blank" rel="noopener">Sketch2Code</a>。我们当时看的好像不是微软做的，不过原理似乎差不太多。</li>
+<li>在没有 Flex 的时候，设前后左右都是 50% 的居中方式：<a href="https://blog.csdn.net/qq_32623363/article/details/77101971" target="_blank" rel="noopener">HTML+CSS，让 div 在屏幕中居中（水平居中 + 垂直居中）方法总结</a></li>
+</ul>
+<h2 id="➤-关于-Echo-js-amp-联系我们"><a href="#➤-关于-Echo-js-amp-联系我们" class="headerlink" title="➤ 关于 Echo.js &amp; 联系我们"></a>➤ 关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>
+<p>有话想说？可以来小宇宙 app 订阅 Echo.js 并给节目发评论，也可以发邮件至 podcast(a)astrianzheng.com。</p>
+<p>关注我们的：<a href="https://t.me/echojspodcast" target="_blank" rel="noopener">Telegram 频道</a>、<a href="https://twitter.com/echojspodcast" target="_blank" rel="noopener">Twitter</a></p>
+<h2 id="➤-COPYRIGHT-DISCLIMER"><a href="#➤-COPYRIGHT-DISCLIMER" class="headerlink" title="➤ COPYRIGHT DISCLIMER"></a>➤ COPYRIGHT DISCLIMER</h2><p>开场音乐：Track: TOKYO MACHINE &amp; Guy Arthur - GET UP [NCS Release]. Music provided by NoCopyrightSounds. Watch: <a href="https://youtu.be/HV7mLcsUp5U" target="_blank" rel="noopener">https://youtu.be/HV7mLcsUp5U</a>, Free Download / Stream: <a href="http://ncs.io/GetUp" target="_blank" rel="noopener">http://ncs.io/GetUp</a></p>
+]]></description>
+      <itunes:author>Astrian &amp; 白羊</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://podcast.astrianzheng.com/images/echo.js.logo.jpg"/>
+      <enclosure url="https://podcast.astrianzheng.com/audio/ep1_final.mp3" length="34849667" type=""/>
+      <guid></guid>
+      <pubDate>Sun, 14 Jun 2020 16:00:00 GMT</pubDate>
+      <itunes:duration>00:57:51</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+    <item>
+      <title>Ep 0. 「喂，喂，一二三，能听见吗？」</title>
+      <description><![CDATA[<h2 id="本期介绍"><a href="#本期介绍" class="headerlink" title="本期介绍"></a>本期介绍</h2><p>这是 Echo.js 的非正式录制节目，俗称「试音集」。目的是测试从录制到剪辑的全过程。</p>
+<p>作为临时起意而诞生的播客，两位主播之间并没有多少磨合的时间。因此，你会在这个试音集里听到各种充满湿气的尬聊。包括一开始尬出血的「这档播客是如何诞生的」，以及后面（个人觉得）稍微好一些的、简单谈论的关于 WSL 与 Deno 和 Vue 3.0 的事情。</p>
+<p>你大可以将它看作一场表演前，几乎每个工作人员为话筒试音会说的那句：「喂，喂，一二三，能听见吗？」</p>
+<p>总之，下一期开始我们会给大家真正「晒干一些」的货。请大家多多关照。鞠躬。</p>
+<h2 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h2><ul>
+<li><a href="https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features" target="_blank" rel="noopener">Windows 10 WSL 支持 Linux GUI apps 的报道</a></li>
+<li><a href="https://devblogs.microsoft.com/directx/directx-heart-linux/" target="_blank" rel="noopener">微软 DirectX 团队宣布其支持 Linux 的官方博客通稿</a></li>
+<li>Deno 的 <a href="https://deno.land/" target="_blank" rel="noopener">官网</a> 和 <a href="https://github.com/denoland/deno" target="_blank" rel="noopener">源码仓库</a></li>
+<li><a href="https://www.infoq.cn/article/rTS3OweiTlA8OldIidBz" target="_blank" rel="noopener">InfoQ 转载的尤雨溪关于 Vue 3.0 的展望</a></li>
+</ul>
+<hr>
+<h2 id="关于-Echo-js-amp-联系我们"><a href="#关于-Echo-js-amp-联系我们" class="headerlink" title="关于 Echo.js &amp; 联系我们"></a>关于 Echo.js &amp; 联系我们</h2><p>Echo.js 是一档关于编程与开发的播客节目。官网地址是 podcast.astrianzheng.com。我们推荐使用支持 RSS 方式订阅（即「泛用型」）的播客客户端收听。</p>
+<p>有话想说？听众反馈可发邮件至 podcast(a)astrianzheng.com。</p>
+<p>关注我们的：<a href="https://t.me/echojspodcast" target="_blank" rel="noopener">Telegram 频道</a></p>
+]]></description>
+      <itunes:author>Astrian &amp; 白羊</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:summary></itunes:summary>
+      <itunes:image href="https://podcast.astrianzheng.com/images/echo.js.logo.jpg"/>
+      <enclosure url="https://podcast.astrianzheng.com/audio/ep0_final.mp3" length="10400000" type=""/>
+      <guid></guid>
+      <pubDate>Sat, 30 May 2020 16:00:00 GMT</pubDate>
+      <itunes:duration>00:21:18</itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
+    
+  </channel>
+</rss>
